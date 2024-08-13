@@ -1,0 +1,40 @@
+body{
+    margin: 10px;
+    background-color: rgb(214, 132, 132);
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color: brown;
+    background-color: antiquewhite;
+    border: 1px black outset;
+
+}
+.image.jpeg
+{
+    position: absolute;  
+      width: 30%;
+
+    height: auto;
+}
+.info{
+    background-color: antiquewhite;
+    border: 1px red outset;
+    list-style: none;
+    display: flex;
+    padding: 0rem;
+    justify-content: space-around;
+
+}
+ol{
+    list-style: none;
+}
+.img{
+    border: 1px rebeccapurple;
+}
+footer :hover{
+    align-items: center;
+    color: black;
+
+    border: 0.5px black ;
+}
